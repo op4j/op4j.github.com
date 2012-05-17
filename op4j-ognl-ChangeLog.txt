@@ -1,0 +1,18 @@
+1.1
+===
+
+- Create shorter versions of FnOgnl function methods.
+- Update OGNL version to 3.0
+- Update javaRuntype version to 1.2
+
+
+1.0
+===
+
+(Same as 1.0-beta3)
+
+
+1.0-beta3
+=========
+
+- First version of op4j-ognl as an extension library (separated from op4j core)
